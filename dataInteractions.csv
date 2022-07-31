@@ -1,0 +1,4 @@
+Username,Password,firstName,lastName,Totalprice,Depositpaid,Checkin,Checkout,Additional,UfirstName,UlastName,UTotalprice,UDepositpaid,UCheckin,UCheckout,UAdditional
+admin,password123,jose,zamora,123,true,2022-07-30,2025-12-31,fast,James,Brown,999,true,2022-06-30,2029-12-31,fasted
+ADMIN,password123,carlos,Barreto,12a,0,0000-00-00,9999-99-99,slow123,jose,zamora,123,true,2022-07-30,2025-12-31,fast
+password123,admin,camila,torres,aaa,aaaa,YYYY-MM-DD,YYYY-MM-DD,percent,jose,zamora,123,true,2022-07-30,2025-12-31,fast
